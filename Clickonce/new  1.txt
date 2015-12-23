@@ -1,0 +1,8 @@
+"C:\Builds\51574\ClickOnce\ClickOnceTest\"src\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\app.publish"
+C:\Build\BuildBot3\CoolApp\CIBuild.
+
+"$(TF_BUILD_BUILDDIRECTORY)\src\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\app.publish"
+
+'$TF_BUILD_BUILDDIRECTORY\src\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\app.publish'
+
+$(SystemDrive)\Builds\$(BuildAgentId)\$(BuildDefinitionPath)

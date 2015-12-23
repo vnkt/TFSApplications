@@ -1,0 +1,13 @@
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\bin\Debug\TFSAPITEAMS.exe.config
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\bin\Debug\TFSAPITEAMS.exe
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\bin\Debug\TFSAPITEAMS.pdb
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\TFSAPITEAMS.csprojResolveAssemblyReference.cache
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\MainWindow.baml
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\MainWindow.g.cs
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\App.g.cs
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\TFSAPITEAMS_MarkupCompile.cache
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\TFSAPITEAMS.g.resources
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\TFSAPITEAMS.Properties.Resources.resources
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\TFSAPITEAMS.csproj.GenerateResource.Cache
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\TFSAPITEAMS.exe
+C:\Users\venkatn\Desktop\1097183\TFSAPITEAMS\obj\Debug\TFSAPITEAMS.pdb

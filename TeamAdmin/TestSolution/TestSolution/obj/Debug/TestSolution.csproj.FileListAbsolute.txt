@@ -1,0 +1,6 @@
+C:\Users\venkatn\Desktop\TeamAdmin\TestSolution\TestSolution\bin\Debug\TestSolution.exe.config
+C:\Users\venkatn\Desktop\TeamAdmin\TestSolution\TestSolution\bin\Debug\TestSolution.exe
+C:\Users\venkatn\Desktop\TeamAdmin\TestSolution\TestSolution\bin\Debug\TestSolution.pdb
+C:\Users\venkatn\Desktop\TeamAdmin\TestSolution\TestSolution\obj\Debug\TestSolution.csprojResolveAssemblyReference.cache
+C:\Users\venkatn\Desktop\TeamAdmin\TestSolution\TestSolution\obj\Debug\TestSolution.exe
+C:\Users\venkatn\Desktop\TeamAdmin\TestSolution\TestSolution\obj\Debug\TestSolution.pdb

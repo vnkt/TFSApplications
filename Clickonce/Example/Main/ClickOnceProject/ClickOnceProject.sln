@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClickOnceProject", "ClickOnceProject\ClickOnceProject.vbproj", "{D3D86B6D-C771-41B8-90D0-486AD7B69B58}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://server:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClickOnceProject\\ClickOnceProject.vbproj
+		SccProjectName1 = ClickOnceProject
+		SccLocalPath1 = ClickOnceProject
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D86B6D-C771-41B8-90D0-486AD7B69B58}.Debug|x86.ActiveCfg = Debug|x86
+		{D3D86B6D-C771-41B8-90D0-486AD7B69B58}.Debug|x86.Build.0 = Debug|x86
+		{D3D86B6D-C771-41B8-90D0-486AD7B69B58}.Release|x86.ActiveCfg = Release|x86
+		{D3D86B6D-C771-41B8-90D0-486AD7B69B58}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

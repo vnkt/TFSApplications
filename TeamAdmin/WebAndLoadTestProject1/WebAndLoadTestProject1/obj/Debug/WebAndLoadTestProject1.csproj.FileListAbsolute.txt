@@ -1,0 +1,9 @@
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\WebTest1.webtest
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\WebAndLoadTestProject1.dll
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\WebAndLoadTestProject1.pdb
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.dll
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.pdb
+C:\Users\venkatn\Desktop\TeamAdmin\WebAndLoadTestProject1\WebAndLoadTestProject1\bin\Debug\LoadTest1.loadtest

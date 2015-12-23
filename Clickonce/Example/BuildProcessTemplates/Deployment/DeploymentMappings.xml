@@ -1,0 +1,6 @@
+<DeploymentMappings xmlns="http://www.readify.net/TfsDeployer/DeploymentMappings20100214">
+
+  <Mapping OriginalQuality="Ready for Deployment"
+           NewQuality="Released"
+           Script="DeployScript.ps1"/>
+</DeploymentMappings>

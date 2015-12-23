@@ -1,0 +1,8 @@
+C:\Users\venkatn\Desktop\Workspace\FirstProj\SharePointTFSExisting\SharePointTFS\bin\Debug\SharePointTFS.exe.config
+C:\Users\venkatn\Desktop\Workspace\FirstProj\SharePointTFSExisting\SharePointTFS\bin\Debug\SharePointTFS.exe
+C:\Users\venkatn\Desktop\Workspace\FirstProj\SharePointTFSExisting\SharePointTFS\bin\Debug\SharePointTFS.pdb
+C:\Users\venkatn\Desktop\Workspace\FirstProj\SharePointTFSExisting\SharePointTFS\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\venkatn\Desktop\Workspace\FirstProj\SharePointTFSExisting\SharePointTFS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\venkatn\Desktop\Workspace\FirstProj\SharePointTFSExisting\SharePointTFS\obj\Debug\SharePointTFS.exe
+C:\Users\venkatn\Desktop\Workspace\FirstProj\SharePointTFSExisting\SharePointTFS\obj\Debug\SharePointTFS.pdb
+C:\Users\venkatn\Desktop\Workspace\FirstProj\SharePointTFSExisting\SharePointTFS\obj\Debug\SharePointTFS.csprojResolveAssemblyReference.cache

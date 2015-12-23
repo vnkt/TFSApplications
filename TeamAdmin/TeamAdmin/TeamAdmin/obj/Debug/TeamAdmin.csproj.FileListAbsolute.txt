@@ -1,0 +1,12 @@
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\TeamAdmin.exe.config
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\TeamAdmin.exe
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\TeamAdmin.pdb
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\Microsoft.TeamFoundation.Diff.xml
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\obj\Debug\TeamAdmin.exe
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\obj\Debug\TeamAdmin.pdb
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\bin\Debug\Microsoft.TeamFoundation.Server.Core.dll
+C:\Users\venkatn\Desktop\TeamAdmin\TeamAdmin\TeamAdmin\obj\Debug\TeamAdmin.csproj.TeamAdmin.exe.config

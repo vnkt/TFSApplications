@@ -1,0 +1,7 @@
+C:\Users\venkatn\Desktop\TeamAdmin\CodedUI\CodedUI\bin\Debug\WebTest1.webtest
+C:\Users\venkatn\Desktop\TeamAdmin\CodedUI\CodedUI\bin\Debug\CodedUI.dll
+C:\Users\venkatn\Desktop\TeamAdmin\CodedUI\CodedUI\bin\Debug\CodedUI.pdb
+C:\Users\venkatn\Desktop\TeamAdmin\CodedUI\CodedUI\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\venkatn\Desktop\TeamAdmin\CodedUI\CodedUI\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+C:\Users\venkatn\Desktop\TeamAdmin\CodedUI\CodedUI\obj\Debug\CodedUI.dll
+C:\Users\venkatn\Desktop\TeamAdmin\CodedUI\CodedUI\obj\Debug\CodedUI.pdb

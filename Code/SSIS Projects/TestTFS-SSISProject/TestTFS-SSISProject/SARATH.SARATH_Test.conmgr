@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SARATH.SARATH_Test"
+  DTS:DTSID="{85D36CF1-632B-4640-A1FA-BD4BBA31695D}"
+  DTS:CreationName="OLEDB">
+  <DTS:PropertyExpression
+    DTS:Name="ServerName">@[$Project::Test]</DTS:PropertyExpression>
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SARATH;User ID=sa;Initial Catalog=MSTEST;Provider=SQLOLEDB.1;Auto Translate=False;Application Name=SSIS-TestTFS-SSISProject-{85D36CF1-632B-4640-A1FA-BD4BBA31695D}SARATH.SARATH_Test;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxr/Wx9N44UCR5FfzHv0xhQAAAAACAAAAAAADZgAAwAAAABAAAAC+Mj66rLMvICe+pTDVvi7rAAAAAASAAACgAAAAEAAAAPgjG9GWQwIlqCan2nKxJ1BwAAAAyBqlBNOQEw5s9YwDgSufH/qeajP0RQAi1Mwbe/Rs8tLB4GckDGYnQg+/6tZFZpw6PXy7g82337um4ubRvRCVZXz4kfgsb+iFwxKc0zSxHgn15KfwR/Y3uDaOTeskHQezctcVLwEo7rnmnQqLqtXNXxQAAACjWvKPrdcB2OBrvm6L0BPCQBipcw==</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

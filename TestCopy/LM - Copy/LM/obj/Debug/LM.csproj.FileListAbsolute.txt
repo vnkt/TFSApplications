@@ -1,0 +1,13 @@
+D:\Cases\Jeff\LM\LM\bin\Debug\LM.exe.config
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\bin\Debug\LM.exe.config
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\bin\Debug\LM.exe
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\bin\Debug\LM.pdb
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\obj\Debug\LM.csprojResolveAssemblyReference.cache
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\obj\Debug\LM.exe
+C:\Users\venkatn\Desktop\Lab Manage\LM - Copy\LM\obj\Debug\LM.pdb
+C:\Users\venkatn\Desktop\TestCopy\LM - Copy\LM\obj\Debug\LM.csprojResolveAssemblyReference.cache
+C:\Users\venkatn\Desktop\TestCopy\LM - Copy\LM\bin\Debug\LM.exe.config
+C:\Users\venkatn\Source\Repos\Git\TestCopy\LM - Copy\LM\bin\Debug\LM.exe.config

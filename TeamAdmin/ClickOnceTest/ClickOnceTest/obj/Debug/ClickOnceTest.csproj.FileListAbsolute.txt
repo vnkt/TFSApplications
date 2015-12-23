@@ -1,0 +1,14 @@
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\ClickOnceTest.exe.config
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\ClickOnceTest.exe.manifest
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\ClickOnceTest.application
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\ClickOnceTest.exe
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\ClickOnceTest.pdb
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\obj\Debug\ClickOnceTest.Properties.Resources.resources
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\obj\Debug\ClickOnceTest.csproj.GenerateResource.Cache
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\obj\Debug\ClickOnceTest.exe.manifest
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\obj\Debug\ClickOnceTest.application
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\obj\Debug\ClickOnceTest.exe
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\obj\Debug\ClickOnceTest.pdb
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\setup.bin
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\obj\Debug\ClickOnceTest.csprojResolveAssemblyReference.cache
+C:\Users\venkatn\Desktop\TeamAdmin\ClickOnceTest\ClickOnceTest\bin\Debug\sign.bat

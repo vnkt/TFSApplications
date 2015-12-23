@@ -1,0 +1,10 @@
+E:\DOCS\Study materials\EnableProjectPortal\EnableProjectPortal\EnableProjectPortal\bin\Debug\EnableProjectPortal.exe.config
+E:\DOCS\Study materials\EnableProjectPortal\EnableProjectPortal\EnableProjectPortal\bin\Debug\EnableProjectPortal.exe
+E:\DOCS\Study materials\EnableProjectPortal\EnableProjectPortal\EnableProjectPortal\bin\Debug\EnableProjectPortal.pdb
+E:\DOCS\Study materials\EnableProjectPortal\EnableProjectPortal\EnableProjectPortal\obj\Debug\EnableProjectPortal.exe
+E:\DOCS\Study materials\EnableProjectPortal\EnableProjectPortal\EnableProjectPortal\obj\Debug\EnableProjectPortal.pdb
+C:\Users\venkatn\Desktop\EnableProjectPortal\EnableProjectPortal\bin\Debug\EnableProjectPortal.exe.config
+C:\Users\venkatn\Desktop\EnableProjectPortal\EnableProjectPortal\bin\Debug\EnableProjectPortal.exe
+C:\Users\venkatn\Desktop\EnableProjectPortal\EnableProjectPortal\bin\Debug\EnableProjectPortal.pdb
+C:\Users\venkatn\Desktop\EnableProjectPortal\EnableProjectPortal\obj\Debug\EnableProjectPortal.exe
+C:\Users\venkatn\Desktop\EnableProjectPortal\EnableProjectPortal\obj\Debug\EnableProjectPortal.pdb
